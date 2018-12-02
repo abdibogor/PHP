@@ -1,0 +1,25 @@
+What Is PHP?
+Server-Side Scripting Language
+Used for Web Development
+Generate Dynamic Web pages
+
+What are the Requirements?
+
+What you will need...
+.Server Or computer with PHP installed
+.Text editing application
+
+What would be helpful...
+.Understanding of HTML
+.Understanding of programming  concepts 
+.Understanding of how a web server works
+.Time & Patience
+
+What the series will cover(Waxa ay taxanuhu dabooli doonaan)
+
+Introduction to PHP
+Learning the basics
+PHP & MySQL integration(is-dhexgalka)
+Investigating(Enquête == baaritaan) advanced concepts
+Community projects(Mashaariicda bulshada)
+
