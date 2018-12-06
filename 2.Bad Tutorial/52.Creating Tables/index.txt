@@ -1,0 +1,15 @@
+CREATE DATABASE student;
+
+USE student;
+
+CREATE TABLE student_info
+(
+  id int primary key auto_increment,
+  name varchar(30),
+  gender varchar(10),
+  email varchar(40),
+  dob date
+);
+
+DESC student_info;
+

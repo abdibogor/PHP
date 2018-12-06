@@ -1,0 +1,5 @@
+SELECT * FROM student_info;
+
+DELETE FROM student_info;
+WHERE id=1;
+

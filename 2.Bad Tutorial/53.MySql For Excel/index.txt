@@ -1,0 +1,13 @@
+Create for excel
+
+Sports_id  sports_name
+	1	Tennis
+	2	Basketball
+	3	Football
+	4	Cricket
+
+
+Importer sql
+
+SHOW tables;
+SELECT * FROM sports;

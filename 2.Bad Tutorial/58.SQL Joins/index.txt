@@ -1,0 +1,19 @@
+CREATE TABLE courses
+(
+course_id int primary key,
+name varchar(30)
+);
+
+INSERT INTO courses VALUES
+(1, 'Physics'),
+(2, 'Biology'),
+(3, 'Chemistry'),
+(4, 'Mathematics');
+
+SELECT * FROM courses;
+
+SELECT *FROM student_info;
+
+SELECT student_info.name, student_info.email, courses.name
+FROM student_info, courses
+WHERE student_infor.course=courses.course_id;

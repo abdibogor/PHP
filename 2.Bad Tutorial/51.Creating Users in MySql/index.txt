@@ -1,0 +1,7 @@
+CREATE DATABASE student;
+
+DROP DATABASE student;
+
+Créer une base de données
+bogoreh 	Interclassement  Créer
+

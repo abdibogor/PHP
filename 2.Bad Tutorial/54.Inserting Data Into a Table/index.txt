@@ -1,0 +1,9 @@
+DESC student_info;
+
+INSERT INTO student_info(name, gender, email, dob);
+VALUES ('John', 'Male', 'john@?gmail.com', '1986/01/25');
+
+SELECT * FROM student_info;
+
+
+

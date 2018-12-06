@@ -1,0 +1,6 @@
+you can download MySQL Workbench
+new
+il faut écrire 
+CREATE DATABASE student;
+
+DROP DATABASE student;

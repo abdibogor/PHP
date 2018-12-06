@@ -1,0 +1,10 @@
+DESCRIBE student_info;
+
+ALTER TABLE student_info;
+ADD course int not null;
+
+INSERT INTO student_info
+VALUES(1,'John','Male','john@gmail.com','1987/01/25',1);
+
+SELECT * FROM student_info;
+
