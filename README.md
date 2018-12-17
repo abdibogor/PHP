@@ -1,5 +1,4 @@
 php-oop-fundamentals
-This repository accompanies the Tuts+ course PHP OOP Fundamentals
 
 What Is OOP?
 In this lesson, we're going to have a look at what object oriented programming is, exactly. This may seem superfluous, but you will see that understanding just a LITTLE of the core concepts behind OOP, will really get you a long way.
@@ -52,4 +51,4 @@ PHP 5.4 introduced traits. A trait is a class containing in which you can group 
 Dependency Injection
 In order to achieve the holy grail of decoupling, you cannot go without depenedncy injection. Depenedncy injection seems to be clouded in mystery. It doesn't have to be. in this video, I'll help you create two examples of dependency injection.
 
-© 2018 GitHub, Inc.
+© Abdibogoreh .
